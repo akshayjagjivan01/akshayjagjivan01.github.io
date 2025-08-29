@@ -1,6 +1,6 @@
 # Akshay Jagjivan's Professional Profile
 
-This repository contains the source code for my professional profile/CV website hosted at [cv.akshay.co.za](https://cv.akshay.co.za).
+This repository contains the source code for my professional profile/CV website hosted at [shayj.me](https://shayj.me).
 
 ## Features
 

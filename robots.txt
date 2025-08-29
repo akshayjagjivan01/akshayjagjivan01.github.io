@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cv.akshay.co.za/sitemap.xml
+Sitemap: https://shayj.me/sitemap.xml
